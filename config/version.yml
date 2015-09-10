@@ -1,0 +1,5 @@
+---
+hash: 7a538fb
+offline: true
+remote: https://github.com/cloudfoundry/java-buildpack
+version: v3.1.1
